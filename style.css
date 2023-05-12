@@ -1,6 +1,9 @@
 body{
     background-color: #50A;
 }
+html{
+  scroll-behavior: smooth;
+}
 h1{
     text-align: center;
     font-family: 'Lilita One', cursive;
